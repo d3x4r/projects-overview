@@ -152,11 +152,11 @@ export default class App extends React.Component {
       <Col className="d-flex mb-4" xs={3} key={title}>
           <Card className="flex-grow-1">
             <Card.Header className="text-center">{title}</Card.Header>
-            <Card.Img variant="top" src={preview} />
+            <Card.Img variant="top" src={preview} alt="title" />
             <Card.Body>
               <Card.Subtitle className="mb-2 text-muted text-right">{kind}</Card.Subtitle>
               <Card.Text>Keywords:
-                <Card.Text>{keyWords.join(', ')}.</Card.Text>
+                <span className="d-block">{keyWords.join(', ')}.</span>
               </Card.Text>
             </Card.Body>
             <Card.Footer className="d-flex justify-content-between">

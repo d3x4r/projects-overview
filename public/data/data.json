@@ -66,11 +66,11 @@
         "kind": "js"
       },
       "brainGames": {
-        "title": "Brain-games",
+        "title": "Brain games",
         "preview":  "./data/projects/brain-games/preview.jpg",
         "id": "brainGames",
         "description": "",
-        "keyWords": ["es6", "babel", "eslint"
+        "keyWords": ["es6", "babel", "eslint", "cli"
         ],
         "source": "hexlet",
         "web":  "",
@@ -118,7 +118,7 @@
         "kind": "js"
       },
       "rssReader": {
-        "title": "Rss-reader",
+        "title": "Rss reader",
         "preview":  "./data/projects/rss-reader/preview.jpg",
         "id": "rssReader",
         "description": "",
@@ -129,9 +129,22 @@
         "github": "https://github.com/d3x4r/frontend-project-lvl3",
         "year": "2019",
         "kind": "js"
+      },
+      "projectsOverview": {
+        "title": "Projects overview",
+        "preview":  "./data/projects/projects-overview/preview.jpg",
+        "id": "projectsOverview",
+        "description": "",
+        "keyWords": ["react", "webpack", "ajax", "react-bootstrap"
+        ],
+        "source": "personal",
+        "web":  "",
+        "github": "https://github.com/d3x4r/projects-overview",
+        "year": "2019",
+        "kind": "js"
       }
     },
-    "allIds": ["rssReader", "gendDiff", "cakes", "brume", "brainGames", "keksobooking", "mishka", "pink", "sedona", "technomart"],
+    "allIds": ["projectsOverview", "rssReader", "gendDiff", "cakes", "brume", "brainGames", "keksobooking", "mishka", "pink", "sedona", "technomart"],
     "uiState": {
       "technomart": { "state": "visible" },
       "sedona": { "state": "visible" },
@@ -142,7 +155,8 @@
       "brume": { "state": "visible" },
       "cakes": { "state": "visible" },
       "gendDiff": { "state": "visible" },
-      "rssReader": { "state": "visible" }
+      "rssReader": { "state": "visible" },
+      "projectsOverview": { "state": "visible" }
     }
   },
   "filters": {
