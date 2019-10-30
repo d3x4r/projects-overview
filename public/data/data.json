@@ -3,10 +3,16 @@
     "byId": {
       "sedona": {
         "title": "Sedona",
-        "preview":  "./data/projects/sedona/preview.jpg",
+        "preview": "./data/projects/sedona/preview.jpg",
         "id": "sedona",
         "description": "",
-        "keyWords": ["desktop-fluid 768-1200", "flex", "pixel perfect", "accessibility", "svg", "google map"
+        "keyWords": [
+          "desktop-fluid 768-1200",
+          "flex",
+          "pixel perfect",
+          "accessibility",
+          "svg",
+          "google map"
         ],
         "source": "htmlAcademy",
         "web": "./data/projects/sedona/index.html",
@@ -15,167 +21,332 @@
       },
       "technomart": {
         "title": "Техномарт",
-        "preview":  "./data/projects/technomart/preview.jpg",
+        "preview": "./data/projects/technomart/preview.jpg",
         "id": "technomart",
         "description": "",
-        "keyWords": ["desktop-static", "flex", "pixel perfect", "css-sliders", "accessibility", "svg", "google map", "modals"
+        "keyWords": [
+          "desktop-static",
+          "flex",
+          "pixel perfect",
+          "css-sliders",
+          "accessibility",
+          "svg",
+          "google map",
+          "modals"
         ],
         "source": "htmlAcademy",
-        "web":  "./data/projects/technomart/index.html",
+        "web": "./data/projects/technomart/index.html",
         "github": "https://github.com/d3x4r/technomart",
         "year": "2018",
         "kind": "psd2html"
       },
       "pink": {
         "title": "Pink",
-        "preview":  "./data/projects/pink/preview.jpg",
+        "preview": "./data/projects/pink/preview.jpg",
         "id": "pink",
         "description": "",
-        "keyWords": ["adaptive", "gulp", "sass", "BEM", "flex", "pixel perfect", "modals", "retina", "webp"
+        "keyWords": [
+          "adaptive",
+          "gulp",
+          "sass",
+          "BEM",
+          "flex",
+          "pixel perfect",
+          "modals",
+          "retina",
+          "webp"
         ],
         "source": "htmlAcademy",
-        "web":  "./data/projects/pink/index.html",
+        "web": "./data/projects/pink/index.html",
         "github": "https://github.com/d3x4r/Pink",
         "year": "2018",
         "kind": "psd2html"
       },
       "mishka": {
         "title": "Mishka",
-        "preview":  "./data/projects/mishka/preview.jpg",
+        "preview": "./data/projects/mishka/preview.jpg",
         "id": "mishka",
         "description": "",
-        "keyWords": ["adaptive", "gulp", "sass", "BEM", "flex", "pixel perfect", "modals", "retina", "webp", "google map"
+        "keyWords": [
+          "adaptive",
+          "gulp",
+          "sass",
+          "BEM",
+          "flex",
+          "pixel perfect",
+          "modals",
+          "retina",
+          "webp",
+          "google map"
         ],
         "source": "htmlAcademy",
-        "web":  "./data/projects/mishka/index.html",
+        "web": "./data/projects/mishka/index.html",
         "github": "https://github.com/d3x4r/mishka",
         "year": "2018",
         "kind": "psd2html"
       },
       "keksobooking": {
         "title": "Keksobooking",
-        "preview":  "./data/projects/keksobooking/preview.jpg",
+        "preview": "./data/projects/keksobooking/preview.jpg",
         "id": "keksobooking",
         "description": "",
-        "keyWords": ["es5", "ajax", "form-validation", "drag-n-drop"
+        "keyWords": [
+          "es5",
+          "ajax",
+          "form-validation",
+          "drag-n-drop"
         ],
         "source": "htmlAcademy",
-        "web":  "./data/projects/keksobooking/index.html",
+        "web": "./data/projects/keksobooking/index.html",
         "github": "https://github.com/d3x4r/keksobooking",
         "year": "2018",
         "kind": "js"
       },
       "brainGames": {
         "title": "Brain games",
-        "preview":  "./data/projects/brain-games/preview.jpg",
+        "preview": "./data/projects/brain-games/preview.jpg",
         "id": "brainGames",
         "description": "",
-        "keyWords": ["es6", "babel", "eslint", "cli"
+        "keyWords": [
+          "es6",
+          "babel",
+          "eslint",
+          "cli"
         ],
         "source": "hexlet",
-        "web":  "",
+        "web": "",
         "github": "https://github.com/d3x4r/Brain-Games",
         "year": "2019",
         "kind": "js"
       },
       "brume": {
         "title": "Brume",
-        "preview":  "./data/projects/brume/preview.jpg",
+        "preview": "./data/projects/brume/preview.jpg",
         "id": "brume",
         "description": "",
-        "keyWords": ["adaptive", "jquery", "gulp", "sass", "BEM", "flex", "pixel perfect", "webp"
+        "keyWords": [
+          "adaptive",
+          "jquery",
+          "gulp",
+          "sass",
+          "BEM",
+          "flex",
+          "pixel perfect",
+          "webp"
         ],
         "source": "personal",
-        "web":  "./data/projects/brume/index.html",
+        "web": "./data/projects/brume/index.html",
         "github": "https://github.com/d3x4r/Brume",
         "year": "2019",
         "kind": "psd2html"
       },
       "cakes": {
         "title": "Cakes",
-        "preview":  "./data/projects/cakes/preview.jpg",
+        "preview": "./data/projects/cakes/preview.jpg",
         "id": "cakes",
         "description": "",
-        "keyWords": ["adaptive", "jquery", "gulp", "sass", "BEM", "flex", "pixel perfect", "webp"
+        "keyWords": [
+          "adaptive",
+          "jquery",
+          "gulp",
+          "sass",
+          "BEM",
+          "flex",
+          "pixel perfect",
+          "webp"
         ],
         "source": "personal",
-        "web":  "./data/projects/cakes/index.html",
+        "web": "./data/projects/cakes/index.html",
         "github": "https://github.com/d3x4r/Cakes",
         "year": "2019",
         "kind": "psd2html"
       },
       "gendDiff": {
         "title": "Вычислитель отличий",
-        "preview":  "./data/projects/gendiff/preview.jpg",
+        "preview": "./data/projects/gendiff/preview.jpg",
         "id": "gendDiff",
         "description": "",
-        "keyWords": ["es6", "babel", "eslint", "cli", "tree data"
+        "keyWords": [
+          "es6",
+          "babel",
+          "eslint",
+          "cli",
+          "tree data"
         ],
         "source": "hexlet",
-        "web":  "",
+        "web": "",
         "github": "https://github.com/d3x4r/project-lvl2-s439",
         "year": "2019",
         "kind": "js"
       },
       "rssReader": {
         "title": "Rss reader",
-        "preview":  "./data/projects/rss-reader/preview.jpg",
+        "preview": "./data/projects/rss-reader/preview.jpg",
         "id": "rssReader",
         "description": "",
-        "keyWords": ["webpack", "bootstrap", "ajax", "DOM", "validation", "deploy"
+        "keyWords": [
+          "webpack",
+          "bootstrap",
+          "ajax",
+          "DOM",
+          "validation",
+          "deploy"
         ],
         "source": "hexlet",
-        "web":  "http://rss-r.surge.sh/",
+        "web": "http://rss-r.surge.sh/",
         "github": "https://github.com/d3x4r/frontend-project-lvl3",
         "year": "2019",
         "kind": "js"
       },
       "projectsOverview": {
         "title": "Projects overview",
-        "preview":  "./data/projects/projects-overview/preview.jpg",
+        "preview": "./data/projects/projects-overview/preview.jpg",
         "id": "projectsOverview",
         "description": "",
-        "keyWords": ["react", "webpack", "ajax", "react-bootstrap"
+        "keyWords": [
+          "react",
+          "webpack",
+          "ajax",
+          "react-bootstrap"
         ],
         "source": "personal",
-        "web":  "",
+        "web": "",
         "github": "https://github.com/d3x4r/projects-overview",
+        "year": "2019",
+        "kind": "js"
+      },
+      "companyList": {
+        "title": "Список компаний",
+        "preview": "./data/projects/company-list/preview.jpg",
+        "id": "companyList",
+        "description": "",
+        "keyWords": [
+          "vue",
+          "vue-cli",
+          "bootstrap",
+          "axios"
+        ],
+        "source": "personal",
+        "web": "http://company-ls.surge.sh",
+        "github": "https://github.com/d3x4r/company-list",
         "year": "2019",
         "kind": "js"
       }
     },
-    "allIds": ["projectsOverview", "rssReader", "gendDiff", "cakes", "brume", "brainGames", "keksobooking", "mishka", "pink", "sedona", "technomart"],
+    "allIds": [
+      "companyList",
+      "projectsOverview",
+      "rssReader",
+      "gendDiff",
+      "cakes",
+      "brume",
+      "brainGames",
+      "keksobooking",
+      "mishka",
+      "pink",
+      "sedona",
+      "technomart"
+    ],
     "uiState": {
-      "technomart": { "state": "visible" },
-      "sedona": { "state": "visible" },
-      "pink": { "state": "visible" },
-      "mishka": { "state": "visible" },
-      "keksobooking": { "state": "visible" },
-      "brainGames": { "state": "visible" },
-      "brume": { "state": "visible" },
-      "cakes": { "state": "visible" },
-      "gendDiff": { "state": "visible" },
-      "rssReader": { "state": "visible" },
-      "projectsOverview": { "state": "visible" }
+      "technomart": {
+        "state": "visible"
+      },
+      "sedona": {
+        "state": "visible"
+      },
+      "pink": {
+        "state": "visible"
+      },
+      "mishka": {
+        "state": "visible"
+      },
+      "keksobooking": {
+        "state": "visible"
+      },
+      "brainGames": {
+        "state": "visible"
+      },
+      "brume": {
+        "state": "visible"
+      },
+      "cakes": {
+        "state": "visible"
+      },
+      "gendDiff": {
+        "state": "visible"
+      },
+      "rssReader": {
+        "state": "visible"
+      },
+      "projectsOverview": {
+        "state": "visible"
+      },
+      "companyList": {
+        "state": "visible"
+      }
     }
   },
   "filters": {
     "byId": {
       "source": [
-        { "name": "HTML Academy", "type": "source", "state": "inactive", "id": "htmlAcademy" },
-        { "name": "Hexlet", "type": "source", "state": "inactive", "id": "hexlet" },
-        { "name": "Personal", "type": "source", "state": "inactive", "id": "personal" }
+        {
+          "name": "HTML Academy",
+          "type": "source",
+          "state": "inactive",
+          "id": "htmlAcademy"
+        },
+        {
+          "name": "Hexlet",
+          "type": "source",
+          "state": "inactive",
+          "id": "hexlet"
+        },
+        {
+          "name": "Personal",
+          "type": "source",
+          "state": "inactive",
+          "id": "personal"
+        }
       ],
       "year": [
-        { "name": "2018", "type": "year", "state": "inactive", "id": "2018" },
-        { "name": "2019", "type": "year", "state": "inactive", "id": "2019" }
+        {
+          "name": "2018",
+          "type": "year",
+          "state": "inactive",
+          "id": "2018"
+        },
+        {
+          "name": "2019",
+          "type": "year",
+          "state": "inactive",
+          "id": "2019"
+        }
       ],
       "kind": [
-        { "name": "PSD2HTML", "type": "kind", "state": "inactive", "id": "psd2html" },
-        { "name": "JS", "type": "kind", "state": "inactive", "id": "js" }
+        {
+          "name": "PSD2HTML",
+          "type": "kind",
+          "state": "inactive",
+          "id": "psd2html"
+        },
+        {
+          "name": "JS",
+          "type": "kind",
+          "state": "inactive",
+          "id": "js"
+        }
       ]
     },
-    "allIds": ["source", "year", "kind"],
-    "resetButton": { "name": "all", "type": "default", "state": "active", "id": "all" }
+    "allIds": [
+      "source",
+      "year",
+      "kind"
+    ],
+    "resetButton": {
+      "name": "all",
+      "type": "default",
+      "state": "active",
+      "id": "all"
+    }
   }
 }
